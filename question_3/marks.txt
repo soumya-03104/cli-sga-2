@@ -1,0 +1,11 @@
+RollNo,Name,Marks1,Marks2,Marks3
+101,Alice Johnson,45,55,60
+102,Bob Smith,30,45,50
+103,Charlie Brown,25,20,15
+104,Diana Ross,75,80,85
+105,Edward King,40,32,50
+106,Fiona Green,33,33,33
+107,George White,90,28,95
+108,Hannah Black,50,60,70
+109,Ivan Gray,32,32,40
+110,Julia Red,45,50,55
