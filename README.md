@@ -16,7 +16,7 @@ question_<no>
 
 ```
 
-> the commands.sh file contains all the commands for each question asked
-> the explanation is written beneath each command
-> the observations has been written beneath each command
-> in case there is another file with commands - all explanations are written on top of the commands
+1. the commands.sh file contains all the commands for each question asked
+1. the explanation is written beneath each command
+1. the observations has been written beneath each command
+1. in case there is another file with commands - all explanations are written on top of the commands
