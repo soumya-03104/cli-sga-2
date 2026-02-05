@@ -1,0 +1,11 @@
+
+jane.doe@company.com
+bob_smith@domain.com
+invalid@123numbers.com
+user@domain
+noatsign.com
+special!char@email.com
+admin@localhost.org
+user-name@domain.com
+spaces @domain.com
+user@sub.domain.com

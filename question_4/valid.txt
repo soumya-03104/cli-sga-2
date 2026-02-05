@@ -1,0 +1,10 @@
+
+12345@numbers.com
+alice@gmail.com
+charlie99@yahoo.com
+final@test.com
+john123@example.com
+support@help.com
+test@test.com
+user123@company.com
+valid@domain.com

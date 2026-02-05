@@ -1,0 +1,22 @@
+john123@example.com
+jane.doe@company.com
+bob_smith@domain.com
+alice@gmail.com
+charlie99@yahoo.com
+invalid@123numbers.com
+user@domain
+noatsign.com
+test@test.com
+user123@company.com
+john123@example.com
+special!char@email.com
+alice@gmail.com
+admin@localhost.org
+support@help.com
+12345@numbers.com
+user-name@domain.com
+valid@domain.com
+john123@example.com
+spaces @domain.com
+user@sub.domain.com
+final@test.com
