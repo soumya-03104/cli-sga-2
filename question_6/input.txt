@@ -1,0 +1,8 @@
+The quick brown fox jumps over the lazy dog.
+A programming language is a formal language that specifies
+a set of instructions for a computer to execute.
+Shell scripting is powerful and flexible.
+The extraordinary accomplishment was unprecedented in history.
+Learning Linux commands helps in automation.
+The cat sat on the mat.
+Programming is fun and challenging at the same time.
