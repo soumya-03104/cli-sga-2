@@ -1,0 +1,11 @@
+Generated on: Thu Feb  5 22:06:45 IST 2026
+Log file analyzed: sample.log
+
+Total log entries:        12
+INFO messages:             5
+WARNING messages:          3
+ERROR messages:            4
+
+MOST RECENT ERROR:
+------------------------------------------
+2025-01-12 10:25:15 ERROR Connection refused

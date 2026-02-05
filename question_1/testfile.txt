@@ -1,0 +1,5 @@
+This is a test file for the analyze.sh script.
+It contains multiple lines of text.
+We will use this to demonstrate the file analysis feature.
+The script should count lines, words, and characters.
+This is the fifth and final line.
